@@ -1,0 +1,150 @@
+nav{
+    background-color: white;
+    margin: 10px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.navitem{
+    display: flex;
+    justify-content: space-around;
+}
+.navLinks{
+    display: flex;
+    gap: 20px;
+    
+}
+
+.navLinks li{
+   list-style: none;
+    
+}
+
+.navBtns {
+    display: flex;
+    gap: 20px;
+ }
+.navBtns li{
+    list-style: none;
+    
+     
+ }
+ section h2{
+    text-align: center;
+    
+ }
+ .cards{
+    display: flex;
+    gap:20px;
+    justify-content: space-around;
+    margin: 20px 10px;
+ }
+ .cards .card{
+    background-color: rgb(168, 165, 165);
+    height: 600px;
+    width: 450px;
+    background-image: url('2_OS_Tshirts_c5ZFYYe.webp');
+    background-size: cover;
+ }
+ .card2{
+    height: 600px;
+    width: 450px;
+    background-image: url('1_Hoodies_copy_2_UzReJOS.webp');
+    background-size: cover;
+ }
+
+ .card3{
+    height: 600px;
+    width: 450px;
+    background-image: url('2_OS_Tshirts_copy_2_1THjx77.webp');
+    background-size: cover;
+ }
+ .cards .card4{
+    background-color: rgb(168, 165, 165);
+    height: 600px;
+    width: 450px;
+    background-image: url('pink\ shirt.webp');
+    background-size: cover;
+ }
+ .card5{
+    height: 600px;
+    width: 450px;
+    background-image: url('sneakers.webp');
+    background-size: cover;
+ }
+ .card6{
+    height: 600px;
+    width: 450px;
+    background-image: url('yellow\ top.webp');
+    background-size: cover;
+ }
+
+ .cardB1{
+    height: 600px;
+    width: 450px;
+    background-image: url('top_selling5_ivIHLgV.webp');
+    background-size: cover;
+ }
+ .cardB2{
+    height: 600px;
+    width: 450px;
+    background-image: url('Top_selling_ntile_1_x8hjKzD.webp');
+    background-size: cover;
+ }
+ .cardB3{
+    height: 600px;
+    width: 450px;
+    background-image: url('Top_selling_ntile_6_NmiyjHH.webp');
+    background-size: cover;
+ }
+ .text{
+    font-size: medium;
+    
+ }
+ .cardsT{
+    display: flex;
+   
+   
+    
+ }
+ .cardTheme1{
+    height: 500px;
+    width: 500px;
+    background-image: url('7_fandom_tile_lQb23im.webp');
+    background-size: cover;
+ }
+ .cardTheme2{
+    height: 500px;
+    width: 500px;
+    background-image: url('3_fandom_tiles_76tezeV.webp');
+    background-size: cover;
+ }
+ .cardTheme3{
+    height: 500px;
+    width: 500px;
+    background-image: url('9_fandom_tile.webp');
+    background-size: cover;
+ }
+ .hero{
+    background-image: url('Homepage_banner_1.webp');
+    height: 500px;
+    
+ }
+ .hero1{
+    background-image: url('membership-web-banner_1.webp');
+    height: 500px;
+    
+ }
+ .click{
+    /* text-align: center; */
+    padding-top: 30px;
+    height: 80px;
+    background-color: #726cf8;
+background-image: linear-gradient(315deg, #726cf8 0%, #e975a8 74%);
+ }
+ .click span{
+    font-size:30px;
+    font-weight: bold;
+    margin-left: 600px;
+   
+ }
+
